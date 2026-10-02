@@ -28,7 +28,7 @@ $$
 \text{Total Cost} = \sum_{t=1}^{T} \sum_{e=1}^{E} \text{Power}_{e,t} \times \text{Price}_{t}
 $$
 
-where $\text{Power}_{e,t}$ is the net power exchange between the EV $e$ and the grid at time step $t$, and $\text{Price}_{t}$ is the DAM price at time step $t$.
+where $Power_{e,t}$ is the net power exchange between the EV $e$ and the grid at time step $t$, and $Price_{t}$ is the DAM price at time step $t$.
 
 -----
 
